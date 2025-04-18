@@ -1,0 +1,586 @@
+2025-03-19 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.13
+
+2025-03-14 GitHub <noreply@github.com>
+
+	* Round .notdef to int in the bold font
+
+2025-03-13 MihailJP <mihailjp@gmail.com>
+
+	* .notdef is now tofu rather than blank
+	* Revert "Add Braille patterns"
+
+2025-03-09 MihailJP <mihailjp@gmail.com>
+
+	* Add Braille patterns
+	* Add outlined letters U+1CCD6 to U+1CCF9
+	* Replace oldstyle 6 and 8 with references
+	* Additional block elements U+1CC21 to U+1CC2F
+	* Additional block elements U+1FB8C to U+1FB9F
+	* Additional geometric shapes U+1FBD0 to U+1FBEF
+	* Add additional geometric shapes U+1FBE4 to U+1FBE7
+	* Add block elements U+1CE51 to U+1CE8F
+	* Add block elements U+1CD00 to U+1CDE5
+	* Update .gitignore
+	* Add additional block elements U+1CE90 to U+1CEAF
+	* Additional block elements U+1FB95 to U+1FB97
+	* Add legacy computer symbols for delete
+
+2025-03-08 MihailJP <mihailjp@gmail.com>
+
+	* Alternative glyphs for control glyphs
+	* Exclude all glyphs from AutoHint
+	* Version 1.12
+	* Remove DisplaySize, AntiAlias, FitToEm, and WinInfo from SFD
+	* Update 'aalt' feature during build except variable fonts
+	* Revert "Add 'aalt' feature"
+	* Bolder glyph for U+2714, U+2716, U+2718, and U+271A
+
+2025-03-06 MihailJP <mihailjp@gmail.com>
+
+	* Add 'aalt' feature
+
+2025-02-24 MihailJP <mihailjp@gmail.com>
+
+	* Add control character symbols
+
+2025-02-22 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.11
+	* Add Powerline glyphs
+
+2025-02-16 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.10.0
+	* Add tenge symbol (Kazakhstan)
+
+2025-02-02 MihailJP <mihailjp@gmail.com>
+
+	* Add Dutch accented IJ feature
+
+2024-09-16 MihailJP <mihailjp@gmail.com>
+
+	* Add lowercase polytonic Greek letters
+
+2024-07-07 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.9.0
+	* Update ezh_variant.png
+
+2024-06-29 MihailJP <mihailjp@gmail.com>
+
+	* Fix uppercase Esh
+	* Fix Ezh variant (adjust reversed Sigma)
+
+2024-06-15 MihailJP <mihailjp@gmail.com>
+
+	* Add Cyrillic letter Khanty Tje
+	* Fix italic descender of U+0527 and U+052F
+	* Add variants of Cyrillic letters
+	* Update README.txt
+	* Add Cyrillic letters
+	* Add Cyrillic letters U+04FA to U+04FF
+
+2024-06-09 MihailJP <mihailjp@gmail.com>
+
+	* Add Chuvash sja
+	* Add Bulgarian uppercase Ef
+	* Add APL symbols
+	* Merge branch 'v1.8'
+	* Version 1.8.2
+	* Adjust mathematical operators
+	* Adjust diagonal box drawings
+
+2024-06-08 MihailJP <mihailjp@gmail.com>
+
+	* Set SFD encoding to UnicodeFull
+	* Fix order of feature tables
+	* Add diagonal box drawings
+	* Add mosaic characters
+	* Version 1.8.1
+	* Fix height of block elements
+
+2024-05-19 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.8.0
+
+2024-05-18 MihailJP <mihailjp@gmail.com>
+
+	* Add lowercase Roman numerals
+	* Add turned digits
+	* Add remaining vulgar fractions
+	* Add Ezh variants
+
+2024-05-16 GitHub <noreply@github.com>
+
+	* Update README.md
+
+2024-05-15 MihailJP <mihailjp@gmail.com>
+
+	* Update italic zhe.bg
+	* Add zero with long slash overlay
+	* Add circled numbers
+
+2024-05-14 MihailJP <mihailjp@gmail.com>
+
+	* Add Roman numerals
+	* Version 1.7.2
+	* Add u1F3F7
+
+2024-05-12 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.7.1
+	* Add symbols used in git-prompt.zsh
+	* Version 1.7
+	* Add some symbols
+	* Add arighthalfring
+	* Update Pinyin variant forms subtables
+	* Add modifier letters and symbols
+	* Add some symbols
+	* Add some symbols
+
+2024-05-11 MihailJP <mihailjp@gmail.com>
+
+	* Add arrows
+	* Add superscript minus
+	* Add subscript numerals
+	* Add dotted zero
+	* Add extended Latin glyphs
+	* Add manat sign
+	* Ordered list in README.md
+	* Update README.md
+	* Add alternative dollar signs
+
+2024-05-09 MihailJP <mihailjp@gmail.com>
+
+	* Add currency symbols
+
+2024-05-07 MihailJP <mihailjp@gmail.com>
+
+	* Add African letters
+
+2024-05-06 MihailJP <mihailjp@gmail.com>
+
+	* Add Ewe glyphs, some adjustment
+	* Drop background layer
+	* Fix alternative U-umlaut
+	* Add some Latin glyphs for African languages
+	* Add Serbo-Croatian ligatures
+	* Add some punctuations
+
+2024-05-05 MihailJP <mihailjp@gmail.com>
+
+	* Add some Latin glyphs for African languages
+	* Add modifier apostrophe
+	* Add big yus
+	* Drop flags for hinting
+
+2024-05-04 MihailJP <mihailjp@gmail.com>
+
+	* Add WOFF2 packaging recipe
+	* Fix Makefile
+	* Update README.md
+
+2024-05-03 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.6.1
+	* Update README.md
+	* Preserve directory tree in release packages
+	* Add German alternative umlaut
+	* Update TTC
+	* D with comma accent in Romanian `locl` feature
+	* Missing Pinyin variant forms
+
+2024-04-28 MihailJP <mihailjp@gmail.com>
+
+	* Set style map names of the variable fonts
+	* Add 'ital' axis to the variable fonts
+	* Fix glyph 'degree' in the italic variable font
+
+2024-04-20 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.6
+	* Fix makettc.py
+	* Adjust Vietnamese glyphs
+	* Add Pinyin variant ('ZHP ')
+
+2024-04-03 MihailJP <mihailjp@gmail.com>
+
+	* Glyphs in Latin Extended B
+	* Drop precomposed glyphs not in Unicode
+	* Adjust diacritics below r with serif
+
+2024-04-02 MihailJP <mihailjp@gmail.com>
+
+	* Add glyphs of r with macron
+	* Add glyphs in Latin Extended Additional
+	* Set decomposition of spacing diacritics
+
+2024-04-01 MihailJP <mihailjp@gmail.com>
+
+	* Add letters for Arabic and Hebrew transliteration
+	* Add letters for Sanskrit transliteration
+	* Add Kildin Sami letters
+	* Add Serbian accented letters
+
+2024-03-31 MihailJP <mihailjp@gmail.com>
+
+	* Add Bulgarian accented glyphs
+	* Add Montenegrin Cyrillic glyph
+	* Serbian variant now also applies for Bosnian
+	* Add Russian and Ukrainian accented letters
+	* Add Sami glyphs (Latin alphabet: outside Russia)
+	* Add uppercase Eszett
+	* Add Latin-8 (Celtic) glyphs
+	* Add Livonian letters
+	* Fix old style numerals lookup
+
+2024-03-28 MihailJP <mihailjp@gmail.com>
+
+	* Add old style numerals
+
+2024-03-27 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.5.2
+	* Add cv01 and cv02
+	* Update README.md
+
+2024-02-17 MihailJP <mihailjp@gmail.com>
+
+	* Add missing CP437 glyphs
+	* Add Macedonian-Serbian form of 'be' in regular and bold fonts
+	* Merge branch 'document'
+	* Add font specimen
+	* Document local forms
+
+2024-02-16 MihailJP <mihailjp@gmail.com>
+
+	* Update .gitignore
+	* Version 1.5.1
+	* Merge branch 'variable'
+	* Merge branch 'ttc'
+	* Update Makefile
+	* Package for variable font
+
+2024-02-15 MihailJP <mihailjp@gmail.com>
+
+	* Update makettc.py
+	* Update README.md
+	* Fix height
+	* Add axis labels
+	* Output path
+	* Workaround for version text
+	* Optimize make_designspace.py
+
+2024-02-14 MihailJP <mihailjp@gmail.com>
+
+	* Fix make_designspace.py
+
+2024-02-13 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'master' into variable
+	* Fix right parenthesis
+	* Extrapolate weight for variable font
+
+2024-02-12 GitHub <noreply@github.com>
+
+	* Minor correction of README.md
+
+2024-02-12 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'master' into ttc
+	* Merge branch 'master' into variable
+	* Additions to README
+	* Merge branch 'master' into ttc
+	* WIP variable font
+	* Use Markdown for README
+	* Make glyphs interpolatable
+	* Merge branch 'master' into ttc
+	* Merge branch 'nextversion'
+	* Add Slovenian accented characters
+	* Fix line height
+	* Glyph name
+	* Fix bold glyphs
+
+2024-02-11 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'master' into nextversion
+	* Fix Makefile
+	* Merge branch 'master' into ttc
+	* Version 1.4.4
+	* Adjust accent above C, c, G, and J
+	* Modify comma accent
+
+2024-02-10 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'interpolatable-bold' into nextversion
+	* Reorder glyphs
+	* Merge branch 'interpolatable-bold'
+	* Bold glyphs of the rest
+	* Bold glyphs for control pictures
+	* Temporarily replace control pictures by references
+	* Bold glyphs
+	* Add TTC version
+
+2024-02-09 MihailJP <mihailjp@gmail.com>
+
+	* Bold glyphs in Latin Extended Additional
+	* Merge branch 'master' into interpolatable-bold
+	* Adjust italic glyphs
+	* Cyrillic bold glyphs
+
+2024-02-08 MihailJP <mihailjp@gmail.com>
+
+	* Fix side bearing of bold italic Cyrillic
+	* Greek bold glyphs
+	* Bold glyphs in Latin Extended B
+	* Refine bold glyphs
+
+2024-02-07 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'master' into interpolatable-bold
+	* Merge branch 'master' into nextversion
+	* Version 1.4.3
+	* Merge branch 'commaaccent' into nextversion
+	* Merge branch 'commaaccent' into interpolatable-bold
+	* Merge branch 'commaaccent'
+	* Add glyph for comma accent
+	* Merge branch 'glyphname' into interpolatable-bold
+	* Merge branch 'glyphname' into nextversion
+	* Merge branch 'glyphname'
+	* Cleanup
+	* Set glyph names
+	* Bold glyphs in Latin Extended A
+	* Feminine ordinal indicator is now italicized rather than obliqued
+	* Bold glyphs for Latin-1 Additional
+
+2024-02-06 MihailJP <mihailjp@gmail.com>
+
+	* Refine bold glyphs
+
+2024-02-05 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'master' into nextversion
+	* Add Latin characters looking similar to Cyrillic
+	* Fix ampersand in bold fonts
+	* Fix bold glyphs
+
+2024-02-04 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'master' into nextversion
+	* Version 1.4.2
+	* Fix bold glyphs
+	* Fix tag name of Polish kreska forms
+	* Add GHE WITH DESCENDER and PE WITH DESCENDER
+	* Design fix of ABKHAZIAN DZE
+	* Add non-Slavic Cyrillic characters
+
+2024-02-03 MihailJP <mihailjp@gmail.com>
+
+	* Add Bulgarian variant forms
+	* Cleanup
+	* Design adjustment of Cyrillic characters
+
+2024-02-02 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'nextversion'
+	* Add Chinese Pinyin characters
+
+2023-11-30 MihailJP <mihailjp@gmail.com>
+
+	* Version 1.3.1
+	* Merge branch 'master' into nextversion
+
+2023-11-30 GitHub <noreply@github.com>
+
+	* Merge pull request #1 from stlee42/fix-for-ms-windows
+
+2023-11-30 stlee42 <42285007+stlee42@users.noreply.github.com>
+
+	* set width and vwidth to be uniform
+	* LangName & TTFWeight for proper display in Windows
+
+2023-10-18 MihailJP <mihailjp@gmail.com>
+
+	* Add CP437 symbols
+
+2023-10-16 MihailJP <mihailjp@gmail.com>
+
+	* Add Vietnamese glyphs
+
+2023-09-21 MihailJP <mihailjp@gmail.com>
+
+	* Add control pictures
+
+2016-04-04 MihailJP <mihailjp@gmail.com>
+
+	* Set version
+	* Add some symbols
+
+2016-04-03 MihailJP <mihailjp@gmail.com>
+
+	* Add some symbols
+	* Correct metrics
+	* Add some symbols
+	* Merge branch 'box-drawing'
+	* Complete box drawings and block elements
+	* Deskew U+2550
+
+2015-04-18 MihailJP <mihailjp@gmail.com>
+
+	* Add Makefile
+	* LICENSE file for package
+
+2013-05-12 MihailJP <mihailjp@gmail.com>
+
+	* Added Romanian comma accent forms
+
+2013-05-06 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'hellenic'
+
+2013-05-05 MihailJP <mihailjp@gmail.com>
+
+	* Merge branch 'zhe_ef'
+
+2013-04-22 cosmix <cosm7x@yahoo.com>
+
+	* Fixed the lowercase theta regression introduced in 1.18.
+	* Improvements to hellenic letters across the board. New lowercase 
+	  lambda.
+
+2013-04-07 Greg Omelaenko <greg@mostlyinfinite.com>
+
+	* Improve forms of Cyrillic Ж, ж, Ф and ф.
+
+2012-12-26 MihailJP <mihailjp@gmail.com>
+
+	* Add Polish kreska forms
+
+2012-08-08 MihailJP <mihailjp@gmail.com>
+
+	* Merge remote-tracking branch 'origin/master'
+
+2012-08-05 cosmix <cosm7x@yahoo.com>
+
+	* Various minor fixes to several lowercase hellenic letters. Some 
+	  alignment fixes
+
+2012-08-03 MihailJP <mihailjp@gmail.com>
+
+	* Italicize lowercase y
+
+2012-05-03 MihailJP <mihailjp@gmail.com>
+
+	* Version number
+	* Added Cyrillic glyphs
+	* Modified Cyrillic hard sign
+	* Added some symbols
+	* Added some U+25xx glyphs
+	* Added some mathematical operators
+	* Added some glyphs
+	* Added some punctuations
+
+2012-05-02 MihailJP <mihailjp@gmail.com>
+
+	* Added remaining WGL4 Latin glyphs except for ligatures
+	* Added remaining Latin Extended-A glyphs
+	* Added Latin-4 glyphs
+	* Added Latin-3 glyphs
+
+2012-05-01 MihailJP <mihailjp@gmail.com>
+
+	* Fixed issue that the bold italic font fails to be recognized on 
+	  Windows
+	* Added numero sign
+	* Modified README
+	* Merge branch 'straightquote' into LGC
+	* Added Macedonian-Serbian italic variant
+	* Straight quotation marks (merged from Inconsolata-dz)
+	* Added bold italic font
+	* Italicized small e with ogonek
+	* Added bold font
+	* SFD font name
+	* Merge branch 'Italic' into LGC
+	* Rewrited README
+
+2012-04-30 MihailJP <mihailjp@gmail.com>
+
+	* Added Cyrillic Italic
+	* Merge commit '26d0fcaa7c804bfb47bf7c5256e75d9df88dbb3e' into Italic
+	* Rectified Cyrillic glyphs
+	* Added Dzhe and Ukrainian Ge
+	* Added Serbian Dj and Tj
+	* Added Macedonian/Serbian Lj and Nj
+	* Added Ukrainian Je
+
+2012-04-29 MihailJP <mihailjp@gmail.com>
+
+	* Added Cyrillic italic glyphs
+	* Rectification
+	* Italic dotless i, ae, oe, eng, kra, slashed l
+	* Modified lowercase italic A
+	* Added italic glyphs: e, g, i, l, p, r, s; modification of m, n, u
+	* Added italic glyphs: a, b, c, d, f, h, m, n, q, u
+	* Obliqued font, italicization to be done
+	* Added Gje, Dze, decimal I, Ji, J, Kje, short U
+	* Additional Cyrillic glyph slots
+	* Added Yo
+	* Added uppercase Ze
+	* Added lowercase Be
+	* Added lowercase Ya
+	* Added lowercase Yu
+	* Added Zhe
+	* Modified Tse and Shcha
+	* Correction
+	* Added upper- and lowercase De
+	* Modified lowercase Ve
+	* Modified upper- and lowercase El
+	* Added small Ze, El, Che
+	* Added small Ve, Sha, Shcha, hard sign, Yery, soft sign
+	* Modified uppercase hard sign
+	* Modified capital Sha, Shcha, Yery
+	* Added capital El, U, Yu
+	* Added uppercase Che, Sha Shcha, Hard sign, Yery
+
+2012-04-28 MihailJP <mihailjp@gmail.com>
+
+	* Added lowercase Ge, Octal I, Em, En, Pe, Tse
+	* Added uppercase Ya
+	* Added capital Tse and Reversed E, lowercase Reversed E
+	* Added capital octal I
+	* Added encoding slot for Cyrillic
+	* Rename
+
+2012-02-15 cosmix <cosm7x@yahoo.com>
+
+	* general fixes to lowercase greek characters, especially lowercase 
+	  epsilon and the stems for chi, psi.
+
+2011-03-13 cosmix <cosm7x@yahoo.com>
+
+	* Fixed Psi stem top alignment
+
+2011-01-13 cosmix <cosm7x@yahoo.com>
+
+	* minor improvements on alpha, delta, lambda, xi
+
+2011-01-09 cosmix <cosm7x@yahoo.com>
+
+	* Minor issue with lowercase phi
+
+2011-01-08 cosmix <cosm7x@yahoo.com>
+
+	* Fixed Phi stem centering, iota glyphs (with dialytika and with 
+	  dialytika and tonos)
+
+2011-01-07 cosmix <cosm7x@yahoo.com>
+
+	* Various fixes, mostly with accented characters and iota
+
+2011-01-06 cosmix <cosm7x@yahoo.com>
+
+	* Added ano teleia and Omega with tonos
+	* Added readme
+	* first commit/public release to github
