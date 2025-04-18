@@ -36,13 +36,13 @@
     \DeclareTextFontCommand{\textsup}{\supfigures}
     \let\textsu\textsup
     \let\textsuperior\textsup
-    \let\@oldtextsuperscript\textsuperscript
-    \def\textsuperscript{\@ifstar\@oldtextsuperscript\textsup}
-    \def\@makefnmark{%
-        \mbox{\footnotemarkfont\textsuperscript{\@thefnmark}}}
-    \@ifundefined{ftntm@font}%
-        {\let\footnotemarkfont\normalfont}%
-        {\let\footnotemarkfont\ftntm@font}
+    % \let\@oldtextsuperscript\textsuperscript
+    % \def\textsuperscript{\@ifstar\@oldtextsuperscript\textsup}
+    % \def\@makefnmark{%
+    %     \mbox{\footnotemarkfont\textsuperscript{\@thefnmark}}}
+    % \@ifundefined{ftntm@font}%
+    %     {\let\footnotemarkfont\normalfont}%
+    %     {\let\footnotemarkfont\ftntm@font}
 
 }{}
 
