@@ -1,0 +1,64 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_l2uzjja5tu5ej267dp24cxjhaf
+% Encoding created by otftotfm on Fri Apr 18 12:27:12 2025
+% Command line follows encoding
+/AutoEnc_l2uzjja5tu5ej267dp24cxjhaf [
+%00
+  /Gamma /Delta /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /Omega /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /dotlessj /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /.notdef /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zerosuperior /onesuperior /twosuperior /threesuperior /foursuperior /fivesuperior /sixsuperior /sevensuperior
+  /eightsuperior /ninesuperior /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /nsuperior /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /Lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=autoinst_output/fonts/tfm/lcdftools/InconsolataLGC
+% --vf-directory=autoinst_output/fonts/vf/lcdftools/InconsolataLGC
+% --truetype-directory=autoinst_output/fonts/truetype/lcdftools/InconsolataLGC
+% --encoding-directory=autoinst_output/fonts/enc/dvips/InconsolataLGC
+% --map-file=autoinst_output/fonts/map/dvips/InconsolataLGC/InconsolataLGC.map
+% --no-updmap --force --coding-scheme=TEX TEXT --feature=sups --ligkern=*
+% {KL} * InconsolataLGC/Inconsolata-LGC-BoldItalic.ttf
+% InconsolataLGC-BoldItalic-sup-ot1'

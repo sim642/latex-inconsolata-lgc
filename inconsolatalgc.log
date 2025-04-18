@@ -1,0 +1,193 @@
+
+
+############################################################################
+
+
+[2025-04-18 12:27:11]  /usr/bin/autoinst, version 20231230
+
+Command was:
+
+    "/usr/bin/autoinst -target=autoinst_output/ -typewriter InconsolataLGC/Inconsolata-LGC-BoldItalic.ttf InconsolataLGC/Inconsolata-LGC-Bold.ttf InconsolataLGC/Inconsolata-LGC-Italic.ttf InconsolataLGC/Inconsolata-LGC.ttf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, LY1, T1
+    NFSS:               tt (typewriter)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          no
+
+    target:             autoinst_output/
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    auto/manual:        auto
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    InconsolataLGC/Inconsolata-LGC-BoldItalic.ttf
+        Name:       InconsolataLGC-BoldItalic
+        Family:     InconsolataLGC
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, cv01, cv02, cv03, cv04, cv05, cv06, cv12, onum, ss01, subs, sups
+
+    InconsolataLGC/Inconsolata-LGC-Bold.ttf
+        Name:       InconsolataLGC-Bold
+        Family:     InconsolataLGC
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, cv01, cv02, cv03, cv04, cv05, cv06, cv12, onum, ss01, subs, sups
+
+    InconsolataLGC/Inconsolata-LGC-Italic.ttf
+        Name:       InconsolataLGC-Italic
+        Family:     InconsolataLGC
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   aalt, cv01, cv02, cv03, cv04, cv05, cv06, cv12, onum, ss01, subs, sups
+
+    InconsolataLGC/Inconsolata-LGC.ttf
+        Name:       InconsolataLGC
+        Family:     InconsolataLGC
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, cv01, cv02, cv03, cv04, cv05, cv06, cv12, onum, ss01, subs, sups
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  
+    l   =>  
+    sl  =>  
+    m   =>  regular
+    sb  =>  
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    InconsolataLGC/Inconsolata-LGC-Bold.ttf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       
+            LY1     TOsF    n       onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       
+            OT1     TOsF    n       onum
+            T1      Sup     n       sups
+            T1      TLF     n       
+            T1      TOsF    n       onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
+
+    ------------------------------------------------------------------------
+
+    InconsolataLGC/Inconsolata-LGC-BoldItalic.ttf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      
+            LY1     TOsF    it      onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      
+            OT1     TOsF    it      onum
+            T1      Sup     it      sups
+            T1      TLF     it      
+            T1      TOsF    it      onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    InconsolataLGC/Inconsolata-LGC-Italic.ttf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     it      sups
+            LY1     TLF     it      
+            LY1     TOsF    it      onum
+            OT1     Sup     it      sups
+            OT1     TLF     it      
+            OT1     TOsF    it      onum
+            T1      Sup     it      sups
+            T1      TLF     it      
+            T1      TOsF    it      onum
+            TS1     TLF     it      onum
+            TS1     TOsF    it      onum
+
+    ------------------------------------------------------------------------
+
+    InconsolataLGC/Inconsolata-LGC.ttf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       
+            LY1     TOsF    n       onum
+            OT1     Sup     n       sups
+            OT1     TLF     n       
+            OT1     TOsF    n       onum
+            T1      Sup     n       sups
+            T1      TLF     n       
+            T1      TOsF    n       onum
+            TS1     TLF     n       onum
+            TS1     TOsF    n       onum
